@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../lecture/.idea/lecture.iml" filepath="$PROJECT_DIR$/../lecture/.idea/lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rails_task_manager.iml" filepath="$PROJECT_DIR$/.idea/rails_task_manager.iml" />
+    </modules>
+  </component>
+</project>
